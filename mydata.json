@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aydın"
+      "surname": "GÜLER",
+      "email" : "aydin@hotmail.com"
+    },
+       {
+      "id": 2,
+      "name": "Aslı"
+      "surname": "GÜLER",
+      "email" : "asli@hotmail.com"
+    },
+        {
+      "id": 3,
+      "name": "Aras"
+      "surname": "GÜLER",
+      "email" : "aras@hotmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Selis"
+      "surname": "GÜLER",
+      "email" : "selis@hotmail.com"
+    },
+  ]
+ }
