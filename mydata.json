@@ -4,25 +4,29 @@
       "id": 1,
       "name": "Aydın"
       "surname": "GÜLER",
-      "email" : "aydin@hotmail.com"
+      "email": "aydin@hotmail.com"
+      "password": "123456"
     },
        {
       "id": 2,
       "name": "Aslı"
       "surname": "GÜLER",
-      "email" : "asli@hotmail.com"
+      "email": "asli@hotmail.com"
+      "password": "123456"
     },
         {
       "id": 3,
       "name": "Aras"
       "surname": "GÜLER",
-      "email" : "aras@hotmail.com"
+      "email": "aras@hotmail.com"
+      "password": "123456"
     },
     {
       "id": 4,
       "name": "Selis"
       "surname": "GÜLER",
-      "email" : "selis@hotmail.com"
+      "email": "selis@hotmail.com"
+      "password": "123456"
     },
   ]
  }
